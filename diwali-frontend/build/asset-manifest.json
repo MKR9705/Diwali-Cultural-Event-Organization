@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Diwali-Event-Organization/static/css/main.3f5794e2.css",
+    "main.js": "/Diwali-Event-Organization/static/js/main.a6dd27de.js",
+    "static/js/787.885c6286.chunk.js": "/Diwali-Event-Organization/static/js/787.885c6286.chunk.js",
+    "static/media/HappyDiwali.gif": "/Diwali-Event-Organization/static/media/HappyDiwali.611f7b0c7513c7e8ae02.gif",
+    "static/media/Diwali-.jpg": "/Diwali-Event-Organization/static/media/Diwali-.b5d442a39b422140b0f6.jpg",
+    "static/media/logo4.webp": "/Diwali-Event-Organization/static/media/logo4.c0cc61fdbb75779db72f.webp",
+    "static/media/logo12.webp": "/Diwali-Event-Organization/static/media/logo12.d30135e797e7e69d132e.webp",
+    "static/media/logo3.webp": "/Diwali-Event-Organization/static/media/logo3.2ecf75f13785fa4961b9.webp",
+    "static/media/wish.gif": "/Diwali-Event-Organization/static/media/wish.4251e8d0b2059093c73c.gif",
+    "static/media/1.jpg": "/Diwali-Event-Organization/static/media/1.cbd9104431617ef8f808.jpg",
+    "static/media/logo5.webp": "/Diwali-Event-Organization/static/media/logo5.75007dc061e31beb962e.webp",
+    "static/media/logo10.webp": "/Diwali-Event-Organization/static/media/logo10.671113313706c3588376.webp",
+    "static/media/logo15.webp": "/Diwali-Event-Organization/static/media/logo15.85522d16ef76e11dba42.webp",
+    "static/media/logo2.webp": "/Diwali-Event-Organization/static/media/logo2.2221107da7536b155ef2.webp",
+    "static/media/3.jfif": "/Diwali-Event-Organization/static/media/3.eda6a0d600a774120020.jfif",
+    "static/media/4.jfif": "/Diwali-Event-Organization/static/media/4.b33f748672deee8abc7c.jfif",
+    "static/media/2.jfif": "/Diwali-Event-Organization/static/media/2.0775115f9e23eafeb217.jfif",
+    "index.html": "/Diwali-Event-Organization/index.html",
+    "main.3f5794e2.css.map": "/Diwali-Event-Organization/static/css/main.3f5794e2.css.map",
+    "main.a6dd27de.js.map": "/Diwali-Event-Organization/static/js/main.a6dd27de.js.map",
+    "787.885c6286.chunk.js.map": "/Diwali-Event-Organization/static/js/787.885c6286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f5794e2.css",
+    "static/js/main.a6dd27de.js"
+  ]
+}

@@ -1,0 +1,127 @@
+/* custom-styles.css */
+.mr-3 {
+    margin-right: 2rem; /* Adjust as needed */
+    
+  }
+  h2{
+    color: orangered;
+    font-style:italic;
+    padding-left: 10px;
+  }
+  h{
+    color: greenyellow;
+    padding-left: 10px;
+  }
+  h1{
+    color: black;
+    font-style: oblique;
+    padding-left: 10px;
+  }
+  li{
+    color: black;
+    
+  }
+.gallery-item{
+  display: inline;
+  }
+  p{
+    color: black;
+    padding-left: 10px;
+  }
+  .full-height {
+    min-height: 100vh;
+    overflow-y: auto; 
+  }
+.home-page{
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 120px;
+  
+}
+.contact-us-page{
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 120px;
+}
+.white-link {
+  color: black;
+  text-decoration: none;
+}
+.white-link:hover { 
+  color: red;
+}
+.gallery{
+  background-color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.contact__content{
+  padding: 3px;
+}
+.list-item-box {
+  border: 1px solid white; /* Add a border around each box */
+  padding: 10px; /* Add padding to create space inside the box */
+  margin: 10px 0; /* Add margin to separate the boxes */
+  background: linear-gradient(45deg, rgba(255, 0, 0, 0.5), rgba(0, 255, 0, 0.5), rgba(0, 0, 255, 0.5));
+}
+.logo{
+  background-image: url(./Images/Diwali-.jpg);
+}
+.color{
+  color: white;
+}
+.contact__label{
+  color: white;
+}
+.headcolor{
+  color: black;
+  background-color: greenyellow;
+  
+}
+.size{
+  padding: 75px;
+  
+}
+img{
+  padding-left: 185px;
+  padding-right: 150px;
+  
+}
+.contact{
+  color: white;
+}
+.gallerypara{
+  padding-left: 185px;
+  padding-right: 190px;
+}
+.ml-auto{
+  font-family: 'Lobster', cursive;
+}
+.fixed-top{
+  background: white;
+}
+.diwaliStories{
+  padding-top: 120px;
+}
+.photogallery{
+  padding-top: 120px;
+  padding-left: 10px;
+}
+.getdata{
+  padding-top: 120px;
+  padding-left: 10px;
+}
+.register{
+  margin: 5px;
+}
+
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
